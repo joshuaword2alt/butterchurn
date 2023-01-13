@@ -2,7 +2,7 @@
 
 Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 
-its like these type of [visuals](https://youtu.be/MsEIzG85JjI)
+its like these type of [visualizer](https://youtu.be/MsEIzG85JjI)
 
 ## [Try it out](https://butterchurnviz.com)
 
